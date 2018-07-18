@@ -1,4 +1,4 @@
-
+'''
 pm = eval(input('请输入pm2.5的值:'))
 
 if print pm > 75:
@@ -7,6 +7,11 @@ elif print 35< pm <= 75:
 	print('今天空气质量适合')
 else:
 	print('今天空气质量不好')
+'''
+
+
+
+
 
 
 
